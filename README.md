@@ -1,4 +1,4 @@
-InternIntelligence_ProjectName
+##InternIntelligence_dogecoin-price-prediction
 📌 Project Overview
 This project aims to predict Dogecoin (DOGE) prices using machine learning algorithms. The model is trained on historical cryptocurrency data and evaluates different regression techniques to provide accurate predictions.
 
