@@ -13,7 +13,7 @@ This project aims to predict Dogecoin (DOGE) prices using machine learning algor
 bash
 Copy
 Edit
-git clone https://github.com/yourusername/dogecoin-price-prediction.git
+git clone https://github.com/TheGunayy/InternIntelligence_dogecoin-price-prediction.git
 cd dogecoin-price-prediction
 2️⃣ Install dependencies:
 
